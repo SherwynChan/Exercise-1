@@ -1,0 +1,53 @@
+---
+title: "Introduction"
+---
+
+![Photo of myself](me.jpeg){.top-left-image}
+
+My name is Sherwyn Chan. I am currently a year 1 undergraduate from Singapore Institute of Technology. I am currently pursuing my studies in Applied Artificial Intelligence, hoping to become a machine learning engineering in the future.
+
+## FYP Journey
+
+As my final year of school approached, I knew I wanted to create something remarkable for my final project. Robotics had always fascinated me, with its blend of engineering, programming, and creativity. After brainstorming with my friends and discussing ideas with my teachers, I decided on a project that aimed to develop a robot capable of assisting with everyday household tasks. This was the beginning of a challenging yet exciting journey.
+
+### **Chapter 1: Assembling the Team**
+
+I couldn't tackle such an ambitious project alone, so I formed a team of like-minded classmates who shared my passion for robotics. There was Alex, our coding expert, who could write complex algorithms with ease. Jamie, the mechanical genius, who could design and build intricate components. Casey, our electronics whiz, who knew everything about circuits and wiring. And finally, me, the project leader, coordinating the efforts and ensuring we stayed on track.
+
+### **Chapter 2: Planning and Designing**
+
+Our first task was to define the scope of our project. We decided to build a multi-functional robot that could perform tasks like vacuuming, fetching items, and even watering plants. We named our robot "Hector."
+
+We spent weeks planning and designing Hector. Jamie sketched out the blueprints, focusing on a modular design that allowed us to easily add or remove components. Alex started working on the software, writing the initial code that would control Hector's movements and responses. Casey began gathering the necessary electronic parts, ensuring we had all the sensors and actuators we needed.
+
+### **Chapter 3: Building Hector**
+
+![Hector](robot.jpeg){.top-left-image}
+
+With our design finalized, we moved on to the building phase. Our school's robotics lab became our second home. We faced numerous challenges along the way. Some components didn’t fit together as planned, and some sensors didn’t respond as expected. But we tackled each problem with determination, learning from our mistakes and improving our design.
+
+Jamie constructed Hector’s frame, ensuring it was sturdy yet flexible. Casey meticulously wired all the electronic components, while Alex integrated the sensors and started testing the software. My role was to oversee the process, troubleshoot issues, and keep everyone motivated.
+
+### **Chapter 4: Programming the Brain**
+
+With the hardware mostly complete, we focused on Hector's programming. Alex's code allowed Hector to navigate rooms using ultrasonic sensors to avoid obstacles. We implemented voice recognition so that Hector could understand and respond to basic commands. This was one of the most challenging aspects of our project, requiring countless hours of debugging and testing.
+
+We also added a machine learning component to improve Hector’s performance over time. By using data from previous tasks, Hector could adapt and optimize its actions, becoming more efficient with each use.
+
+### **Chapter 5: Testing and Refining**
+
+Once Hector was fully assembled, we moved into the testing phase. We set up various scenarios to see how well Hector performed. Initially, there were plenty of hiccups. Hector would sometimes bump into furniture or misinterpret commands. But with each test, we identified issues and made necessary adjustments.
+
+We also sought feedback from our teachers and classmates, who provided valuable insights and suggestions. This iterative process of testing and refining was crucial in transforming Hector from a prototype into a reliable household assistant.
+
+### **Chapter 6: Presentation Day**
+
+The day of our final presentation arrived. We were both nervous and excited to showcase Hector to our teachers and peers. We set up a mock living room in the auditorium, demonstrating Hector’s capabilities. Hector successfully navigated the room, vacuumed the floor, fetched a book, and even watered a plant, all while responding to voice commands.
+
+The audience was impressed, and our teachers commended us for our teamwork, innovation, and problem-solving skills. We had not only built a functional robot but also demonstrated our ability to tackle complex challenges and learn from them.
+
+### **Epilogue: Reflections and Future Aspirations**
+
+Looking back, the journey of creating Hector was one of the most rewarding experiences of my academic life. It taught me the importance of collaboration, perseverance, and adaptability. I realized that robotics wasn't just about building machines; it was about solving real-world problems and making a positive impact.
+
+As I prepare for graduation, I am more determined than ever to pursue a career in robotics. Hector was just the beginning, and I am excited about the endless possibilities the future holds. This project has inspired me to continue exploring, innovating, and pushing the boundaries of what robots can do.

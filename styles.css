@@ -1,0 +1,9 @@
+/* css styles */
+.top-left-image {
+    display: block;
+    float: left;
+    width: 150px; /* Width of the resume-size photo */
+    height: 150px; /* Height of the resume-size photo */
+    object-fit: cover; /* Ensures the image fits within the specified dimensions */
+    margin: 0 auto;
+}

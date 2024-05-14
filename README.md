@@ -1,2 +1,2 @@
-# Exercise-1
+# Ex-1
  
