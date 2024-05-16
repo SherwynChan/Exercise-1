@@ -22,7 +22,7 @@ We spent weeks planning and designing Hector. Jamie sketched out the blueprints,
 
 ### **Chapter 3: Building Hector**
 
-![Hector](robot.jpeg){.top-left-image}
+![Hector the robot](robot.jpeg){.top-left-image}
 
 With our design finalized, we moved on to the building phase. Our school's robotics lab became our second home. We faced numerous challenges along the way. Some components didn’t fit together as planned, and some sensors didn’t respond as expected. But we tackled each problem with determination, learning from our mistakes and improving our design.
 
